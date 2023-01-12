@@ -2,11 +2,7 @@
   "companies": [
     {
       "id": 1,
-      "name": "1st Choice Irrigation", "nickname": "1st Choice Irrigation", "Abbreviation": "CI"
-    },
-     {
-      "id": 2,
-      "name": "2st Choice Irrigation", "Nickname": "1st Choice Irrigation", "Abbreviation": "CI"
+      "name": "1st Choice Irrigation"
     }
   ],
 }
