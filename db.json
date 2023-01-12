@@ -1,6 +1,6 @@
 {companies: [
-        { CompanyId: "535c381a-bbaf-45cd-8953-1142524123fb", Name: "1st Choice Irrigation", Nickname: "1st Choice Irrigation", Abbreviation: "CI", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
-        { CompanyId: "b0f32767-5594-4d8d-beb1-e9b32b86ff25", Name: "ACT", Nickname: "ACT", Abbreviation: "ACT", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
-        { CompanyId: "72a387df-98b8-4fe2-a78f-5ec5b3abf86c", Name: "Advanced Irrigation", Nickname: "Advanced Irrigation", Abbreviation: "ADV", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
-        { CompanyId: "5616378c-47c9-485c-9405-353326258be3", Name: "AFKO", Nickname: "AFKO", Abbreviation: "AFKO", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
+        { id: "535c381a-bbaf-45cd-8953-1142524123fb", Name: "1st Choice Irrigation", Nickname: "1st Choice Irrigation", Abbreviation: "CI", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
+        { id: "b0f32767-5594-4d8d-beb1-e9b32b86ff25", Name: "ACT", Nickname: "ACT", Abbreviation: "ACT", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
+        { id: "72a387df-98b8-4fe2-a78f-5ec5b3abf86c", Name: "Advanced Irrigation", Nickname: "Advanced Irrigation", Abbreviation: "ADV", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
+        { id: "5616378c-47c9-485c-9405-353326258be3", Name: "AFKO", Nickname: "AFKO", Abbreviation: "AFKO", OEM_Id: null, QAD_Id: null, Enabled: true, File: null },
 ]}
