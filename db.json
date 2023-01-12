@@ -2,7 +2,10 @@
   "companies": [
     {
       "id": 1,
-      "name": "1st Choice Irrigation"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
