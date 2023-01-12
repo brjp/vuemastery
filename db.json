@@ -151,24 +151,17 @@
         "File": null
     },
   ],
-  "users": [
+  "users":[
     {
-      "UserId":"05a8a634-0535-4f77-9a79-0e3dec2deda7",
-      "Name":"Ivan Fedotov",
-      "Email":"fedotov_i@act.su",
-      "Password":"l6pZcoWq6DEj4PwZcPomA2QBngg=",
-      "Salt":"3fMfHhIg3t0db6+Mhn4vJw==",
-      "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
-      "IsAdmin":false,"Enabled":true,"Initials":"IF"
+      "UserId":"4c0dcd95-6d4e-466e-bb3a-d31bae8139d8",
+     "Name":"Aden Johnson",
+      "Email":"adenj@agri-lines.com",
+      "Password":"6AY0AzM4nsSTWYnmWNtK2P9mK00=",
+      "Salt":"fOQDcqLPf91XPxoxS10M6Q==",
+      "CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107",
+      "IsAdmin":false,
+      "Enabled":true,
+      "Initials":"AJ"
     },
-    {
-      "UserId":"72a1d153-9eb5-4a84-84d6-097767eb78e1",
-      "Name":"Julia Zinovyeva",
-      "Email":"zinovieva_j@act.su",
-      "Password":"ymQXUyT3W75Ga49RMjoccsAIhys=",
-      "Salt":"mFackSS8bNHS+/lIxVeo9w==",
-      "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
-      "IsAdmin":false,"Enabled":true,"Initials":"JZ"
-    }
-  ]
+    {"UserId":"a6bbf225-a736-4290-ab5e-5d6d09387441","Name":"Dallas Jensen","Email":"dallasj@agri-lines.com","Password":"v2V8I6CuBTgLIlwSGEIHmQ9vCp4=","Salt":"hB20kCNV60qwsz50VjNujA==","CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107","IsAdmin":false,"Enabled":true,"Initials":"DJ"},{"UserId":"0952753e-7d8c-4312-a412-3c5ad072cd76","Name":"Fred Butler","Email":"fredb@agri-lines.com","Password":"fXbAzFA9eaI2lUTsPY1vKHGCeAE=","Salt":"L+TeykOVzvnjnAtpu6SctQ==","CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107","IsAdmin":false,"Enabled":true,"Initials":"FB"},{"UserId":"14f19793-7a4b-4a54-a259-fcb83d6befb5","Name":"SprinklerChart Support","Email":"SC@sprinklerchart.com","Password":"Jz5sYh/usZmVYNM5SGGBVTB6HB0=","Salt":"9td4WwInaSthJywOgTZ+Sw==","CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107","IsAdmin":false,"Enabled":true,"Initials":"SCS"},{"UserId":"a4d70948-11e3-49a1-84fe-dc321aa148d6","Name":"Terry Carothers","Email":"terryc@agri-lines.com.x","Password":"64vmIKlhw7vnX91gP/Q4A1MY5b8=","Salt":"3LJCjFHVIR4eoKgUZcVCfw==","CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107","IsAdmin":false,"Enabled":false,"Initials":"TC"},{"UserId":"6286b702-d824-4e47-a91b-46efc55a10a9","Name":"Tim Standerford","Email":"tims@agri-lines.com","Password":"t27QMZmuuzUzwG+gbMuF93v/iQA=","Salt":"Ssoud0TMZW/uhCckrm/Olg==","CompanyId":"f556cbee-9df7-4729-aaf6-f0670764d107","IsAdmin":false,"Enabled":true,"Initials":"TS"}]
 }
