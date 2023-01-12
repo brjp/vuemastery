@@ -1,11 +1,34 @@
 {
   "companies": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+   {
+     "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
+    "Name":"ACT",
+     "Nickname":"ACT",
+     "Abbreviation":"ACT",
+     "OEM_Id":null,
+     "QAD_Id":null,
+     "Enabled":true,
+     "File":null
+   }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "UserId":"05a8a634-0535-4f77-9a79-0e3dec2deda7",
+      "Name":"Ivan Fedotov",
+      "Email":"fedotov_i@act.su",
+      "Password":"l6pZcoWq6DEj4PwZcPomA2QBngg=",
+      "Salt":"3fMfHhIg3t0db6+Mhn4vJw==",
+      "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
+      "IsAdmin":false,"Enabled":true,"Initials":"IF"
+    },
+    {
+      "UserId":"72a1d153-9eb5-4a84-84d6-097767eb78e1",
+      "Name":"Julia Zinovyeva",
+      "Email":"zinovieva_j@act.su",
+      "Password":"ymQXUyT3W75Ga49RMjoccsAIhys=",
+      "Salt":"mFackSS8bNHS+/lIxVeo9w==",
+      "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
+      "IsAdmin":false,"Enabled":true,"Initials":"JZ"
+    }
+  ]
 }
