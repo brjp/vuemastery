@@ -149,7 +149,7 @@
         "QAD_Id": null,
         "Enabled": true,
         "File": null
-    },
+    }
   ],
   "users": [
     {
@@ -217,6 +217,6 @@
         "IsAdmin": false,
         "Enabled": true,
         "Initials": "TS"
-    },
+    }
   ]
 }
