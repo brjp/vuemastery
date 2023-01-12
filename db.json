@@ -3,6 +3,10 @@
     {
       "id": 1,
       "Name": "1st Choice Irrigation", "Nickname": "1st Choice Irrigation", "Abbreviation": "CI", "OEM_Id": null, "QAD_Id": null, "Enabled": true, "File": null 
+    },
+     {
+      "id": 2,
+      "Name": "2st Choice Irrigation", "Nickname": "1st Choice Irrigation", "Abbreviation": "CI", "OEM_Id": null, "QAD_Id": null, "Enabled": true, "File": null 
     }
   ],
   "users": {
