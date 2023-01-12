@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "companies": [
     {
       "id": 1,
-      "title": "hello"
+      "Name": "1st Choice Irrigation", "Nickname": "1st Choice Irrigation", "Abbreviation": "CI", "OEM_Id": null, "QAD_Id": null, "Enabled": true, "File": null },
     }
   ],
-  "profile": {
+  "users": {
     "name": "typicode"
   }
 }
