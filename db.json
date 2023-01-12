@@ -1,15 +1,155 @@
 {
   "companies": [
    {
-     "CompanyId":"b0f32767-5594-4d8d-beb1-e9b32b86ff25",
-    "Name":"ACT",
-     "Nickname":"ACT",
-     "Abbreviation":"ACT",
-     "OEM_Id":null,
-     "QAD_Id":null,
-     "Enabled":true,
-     "File":null
-   }
+        "CompanyId": "b0f32767-5594-4d8d-beb1-e9b32b86ff25",
+        "Name": "ACT",
+        "Nickname": "ACT",
+        "Abbreviation": "ACT",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "72a387df-98b8-4fe2-a78f-5ec5b3abf86c",
+        "Name": "Advanced Irrigation",
+        "Nickname": "Advanced Irrigation",
+        "Abbreviation": "ADV",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "5616378c-47c9-485c-9405-353326258be3",
+        "Name": "AFKO",
+        "Nickname": "AFKO",
+        "Abbreviation": "AFKO",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "1b92bc4e-46d3-459d-9e77-a13d0e631761",
+        "Name": "Ag Equipment",
+        "Nickname": "Ag Equipment",
+        "Abbreviation": "AE",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "c027db8a-03a5-4a8b-91b3-879f7bd5d7c5",
+        "Name": "Ag First Engineering",
+        "Nickname": "Ag First Engineering",
+        "Abbreviation": "AFE",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "8e2b8ae2-cfa5-4625-aab2-24d6648b524f",
+        "Name": "Ag Services Construction Inc.",
+        "Nickname": "Ag Services Construction Inc.",
+        "Abbreviation": "ASC",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "6f52afa3-6cad-422b-91c4-84a5ce6c33b4",
+        "Name": "Agfirst Engineering Te Puke",
+        "Nickname": "Agfirst Engineering Te Puke",
+        "Abbreviation": "AETP",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "6332608c-1e5c-4a6e-a78f-824d71b8dd0f",
+        "Name": "AgH20Rx Engineering",
+        "Nickname": "AgH20Rx Engineering",
+        "Abbreviation": "AGH20",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "71c52d4e-f612-4643-83dd-4b1fb6bb9e3a",
+        "Name": "Agline",
+        "Nickname": "Agline",
+        "Abbreviation": "AL",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "087e889b-02b5-4158-a940-de73f36db626",
+        "Name": "AGQUIP, LLC",
+        "Nickname": "AGQUIP",
+        "Abbreviation": "AGQ",
+        "OEM_Id": "9b307943-c069-4f98-85e1-922aadb7cd2f",
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "f556cbee-9df7-4729-aaf6-f0670764d107",
+        "Name": "Agri Lines Irrigation, Inc. Parma",
+        "Nickname": "Agri Lines",
+        "Abbreviation": "ALI",
+        "OEM_Id": "9b307943-c069-4f98-85e1-922aadb7cd2f",
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "6c816909-095a-433f-8130-b4ebf3f1821e",
+        "Name": "Agrico",
+        "Nickname": "Agrico",
+        "Abbreviation": "AGC",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "4d4c834b-e2d5-4aa0-94f7-afde20761bb2",
+        "Name": "Agrico South Africa",
+        "Nickname": "Agrico",
+        "Abbreviation": "ASA",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "9e5c4362-783a-44d9-8318-485713ebf1a3",
+        "Name": "Agricultural Solutions for Africa",
+        "Nickname": "ASFA",
+        "Abbreviation": "ASFA",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
+    {
+        "CompanyId": "a64d8fa3-1e78-4bdb-b608-2483a747eb52",
+        "Name": "Agri-Lines Grandview",
+        "Nickname": "Agri-Lines Grandview",
+        "Abbreviation": "ALG",
+        "OEM_Id": null,
+        "QAD_Id": null,
+        "Enabled": true,
+        "File": null
+    },
   ],
   "users": [
     {
